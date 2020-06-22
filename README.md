@@ -1,4 +1,4 @@
-# Ejercicio Front-end ZeroQ
+# Desafío Front-end ZeroQ
 
 Se me solicitó hacer esta prueba para postular al trabajo.
 

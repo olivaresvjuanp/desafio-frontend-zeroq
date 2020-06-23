@@ -12,7 +12,7 @@ Enlace: http://ec2-18-230-150-149.sa-east-1.compute.amazonaws.com:3025.
 
 Para probar con Docker, correr `docker pull olivaresvjuanp/desafio-frontend-zeroq:0.1`, luego correr `docker run -p 3025:3025 olivaresvjuanp/desafio-frontend-zeroq:0.1`.
 
-La aplicación estará expuesta en el siguiente enlace: http://localhost:3050.
+La aplicación estará expuesta en el siguiente enlace: http://localhost:3025.
 
 Repositorio en Docker Hub: https://hub.docker.com/repository/docker/olivaresvjuanp/desafio-frontend-zeroq.
 

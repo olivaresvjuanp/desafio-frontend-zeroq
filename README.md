@@ -10,7 +10,7 @@ Enlace: http://ec2-18-230-150-149.sa-east-1.compute.amazonaws.com:3025.
 
 #### Probar con Docker
 
-Para probar con Docker, correr `docker pull olivaresvjuanp/desafio-frontend-zeroq:0.1`, luego correr `docker run -p 3050:3050 olivaresvjuanp/desafio-frontend-zeroq:0.1`.
+Para probar con Docker, correr `docker pull olivaresvjuanp/desafio-frontend-zeroq:0.1`, luego correr `docker run -p 3025:3025 olivaresvjuanp/desafio-frontend-zeroq:0.1`.
 
 La aplicación estará expuesta en el siguiente enlace: http://localhost:3050.
 
@@ -66,11 +66,11 @@ La aplicación estará expuesta en el siguiente enlace: http://localhost:3000.
 >
 >Prototipo a realizar:
 >
->![Prototipo](assets/screens/index.png "prototipo")
+>![Prototipo](https://gitlab.com/hpichardo/desafio-frontend-zeroq/-/raw/master/assets/screens/index.png "prototipo")
 >
 >Leyenda de ayuda para conocer donde deben mostrarse los datos:
 >
->![Leyenda](assets/screens/legend.png "Leyenda")
+>![Leyenda](https://gitlab.com/hpichardo/desafio-frontend-zeroq/-/raw/master/assets/screens/legend.png "Leyenda")
 >
 >## Lo que debes realizar
 >
